@@ -30,6 +30,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'hirb'
 gem 'bootstrap_form'
 gem 'devise'
+gem 'faker'
+gem 'will_paginate', '~> 3.1.0'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
